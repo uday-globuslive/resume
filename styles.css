@@ -1,65 +1,49 @@
+/* General Styling */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
     color: #333;
-    margin: 0;
-    padding: 0;
+    margin: 20px;
+    background-color: #f4f4f9;
 }
 
-.container {
-    max-width: 900px;
-    margin: auto;
-    overflow: hidden;
-    padding: 0 2rem;
-}
-
+/* Header Styling */
 header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
     text-align: center;
-    padding: 2rem 0;
-    border-bottom: 1px solid #333;
+    border-radius: 8px;
 }
 
-header h1 {
-    margin: 0;
+/* Section Titles */
+h1, h2, h3 {
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 5px;
+    color: #4CAF50;
 }
 
-header p {
-    margin: 0.5rem 0;
-}
-
+/* Sections */
 section {
-    margin: 2rem 0;
+    margin-bottom: 20px;
 }
 
-h2 {
-    color: #333;
-    margin-bottom: 0.5rem;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1rem 0;
-}
-
-th, td {
-    padding: 0.5rem;
-    border: 1px solid #ddd;
-    text-align: left;
-}
-
+/* Lists */
 ul {
     list-style-type: none;
     padding: 0;
 }
 
 ul li {
-    padding: 0.5rem 0;
+    background: #e0e0e0;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
 }
 
+/* Links */
 a {
-    color: #333;
+    color: #4CAF50;
     text-decoration: none;
 }
 
