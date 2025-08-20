@@ -1,5 +1,5 @@
 **Uday Kiran Reddy**  
-📧 uday1kirane@gmail.com | 📞 +91-9581226333 
+📧 uday.globuslive@gmail.com | 📞 +91-9581226333 
 
 ---
 
