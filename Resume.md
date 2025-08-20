@@ -1,5 +1,5 @@
 **Uday Kiran Reddy**  
-📧 uday.globuslive@gmail.com | 📞 +91-9912209666 | 🌐 [LinkedIn Profile](https://www.linkedin.com/in/uday-r-901744293/) | 🖥️ [GitHub Profile](https://github.com/uday-globuslive)  
+📧 uday1kirane@gmail.com | 📞 +91-9581226333 
 
 ---
 
@@ -76,7 +76,8 @@
 - **📋 Technical Documentation & Architecture Expert**: Produced comprehensive technical specifications, advanced architecture diagrams using Lucidchart and Visio, and operational documentation translating high-level product requirements into actionable **global enterprise solutions**, establishing documentation standards adopted across 15+ enterprise projects.  
 - **🤖 Automation Innovation Expert**: Engineered sophisticated **PowerShell** and **Python** automation frameworks for **Azure DevOps CI/CD pipelines**, revolutionizing infrastructure management, monitoring, and deployment processes with Lambda and Azure CLI integration, reducing manual deployment time by 85%.  
 - **🏗️ Infrastructure as Code Expert**: Built and maintained enterprise-grade Infrastructure as Code using **Terraform** and **Azure Bicep** for **multi-cloud deployments** supporting global operations with zero-downtime requirements, managing 200+ cloud resources across 5 regions with automated state management and drift detection.  
-- **🔒 Advanced Security Implementation Champion**: Implemented cutting-edge **Azure SecOps practices** including Azure Security Center, Azure Sentinel, Azure Key Vault, and HashiCorp Vault integration, ensuring enterprise security compliance and regulatory adherence (SOC2, HIPAA, GDPR), achieving 100% compliance audit success rate.  
+- **� Application Packaging & Deployment**: Leveraged **InstallShield** to create robust and reliable installers for enterprise applications, including designing custom UI screens and implementing complex custom actions to meet specific deployment requirements.  
+- **�🔒 Advanced Security Implementation Champion**: Implemented cutting-edge **Azure SecOps practices** including Azure Security Center, Azure Sentinel, Azure Key Vault, and HashiCorp Vault integration, ensuring enterprise security compliance and regulatory adherence (SOC2, HIPAA, GDPR), achieving 100% compliance audit success rate.  
 - **🎯 Enterprise Excellence Delivery**: Delivered DevOps solutions in **enterprise environments** meeting stringent service level targets (99.9% uptime, <2 second response times) and quality objectives, ensuring high availability and reliability for global manufacturing operations processing $50M+ annual revenue.  
 - **✅ Industry Best Practices Guardian**: Ensured 100% compliance with development methodologies, security standards (ISO 27001, NIST), and best practices in **enterprise IT organizations**, establishing governance frameworks and conducting regular security assessments.  
 - **🎤 Thought Leadership Powerhouse**: **Led impactful technical presentations and workshops** for enterprise stakeholders, cross-functional teams, and global audiences (500+ attendees), driving understanding and strategic alignment on cloud transformation initiatives and DevOps best practices.  
@@ -86,9 +87,9 @@
 - **🚀 Deployment Excellence Engineer**: Automated application deployments and infrastructure provisioning using **Azure DevOps Pipelines** and **GitHub Actions** for both cloud and on-premises enterprise environments, achieving 95% deployment success rate with automated rollback capabilities.  
 - **💰 Cost Optimization Strategist**: Implemented FinOps practices including resource tagging, automated scaling, and cost monitoring using Azure Cost Management and AWS Cost Explorer, achieving 40% cost reduction while maintaining performance standards.  
 **Key Projects:**  
-• **Global Manufacturing Cloud Migration**: Led enterprise-wide cloud migration for Fortune 500 manufacturing client, migrating 150+ legacy applications to Azure AKS with zero downtime, implementing blue-green deployment strategies  
-• **DevSecOps Pipeline Implementation**: Designed and implemented comprehensive DevSecOps pipeline for financial services client, integrating 12 security tools and achieving 99.5% vulnerability detection rate  
-• **Multi-Cloud Disaster Recovery**: Architected multi-cloud disaster recovery solution spanning Azure and AWS with automated failover capabilities, achieving RPO of 15 minutes and RTO of 30 minutes  
+• **Global Manufacturing Cloud Migration**: Led enterprise-wide cloud migration for Fortune 500 manufacturing client, migrating 150+ legacy applications to Azure AKS with zero downtime, implementing blue-green deployment strategies with **InstallShield**.
+• **DevSecOps Pipeline Implementation**: Designed and implemented comprehensive DevSecOps pipeline for financial services client, integrating 12 security tools, including **InstallShield** for secure application packaging, and achieving 99.5% vulnerability detection rate.
+• **Multi-Cloud Disaster Recovery**: Architected multi-cloud disaster recovery solution spanning Azure and AWS with automated failover capabilities, utilizing **InstallShield** for consistent application deployment, achieving RPO of 15 minutes and RTO of 30 minutes.  
 **Project Outcome**: **🏆 Enterprise Success Story** - Successfully migrated 100+ enterprise applications with 99.9% uptime, achieved remarkable 40% cost optimization ($250k annual savings), improved deployment frequency by 300%, established enterprise-grade security compliance meeting SOC2 and industry standards, reduced security vulnerabilities by 85% through comprehensive DevSecOps implementation across global operations, and delivered ROI of 250% within first year of implementation.  
 
 **Senior Cloud/DevOps Engineer & AI Testing/Prompt Engineer**  
@@ -112,7 +113,8 @@
 - **📊 Performance Optimization Specialist**: Monitored and optimized system performance using Prometheus, **Grafana**, Kube-state-metrics, Loki, **Azure Monitor**, PagerDuty, and **AWS** CloudWatch in global enterprise settings, establishing SLI/SLO frameworks and error budgets.  
 - **🚨 Enterprise Excellence Guardian**: **Participated in enterprise incident, change, and problem management programs**, documenting details and driving continuous improvement with excellent communication across global teams, implementing SRE practices and on-call procedures.  
 - **🧠 ML/AI Infrastructure Specialist**: Architected and managed machine learning infrastructure including GPU clusters, distributed training systems, and model serving platforms using Kubernetes, Docker, and specialized ML frameworks (Kubeflow, MLflow, TensorFlow Serving).  
-- **🔍 Quality Assurance Champion**: Implemented comprehensive testing strategies for AI models including unit testing, integration testing, performance testing, and safety testing, establishing quality gates and automated validation processes that reduced model deployment failures by 80%.  
+- **� Application Packaging & Deployment**: Utilized **InstallShield** to develop sophisticated installers, designing custom user interfaces and implementing custom actions to automate complex configuration tasks during application deployment.  
+- **�🔍 Quality Assurance Champion**: Implemented comprehensive testing strategies for AI models including unit testing, integration testing, performance testing, and safety testing, establishing quality gates and automated validation processes that reduced model deployment failures by 80%.  
 **Key Projects:**  
 • **Anthropic Claude AI Testing Framework**: Developed comprehensive testing framework for Claude AI models, implementing automated safety testing, prompt engineering validation, and performance benchmarking across 100+ use cases  
 • **Enterprise AI Infrastructure**: Built scalable Kubernetes-based AI infrastructure supporting 500+ concurrent model training jobs with GPU optimization and cost management  
@@ -123,6 +125,7 @@
 **Senior Software Engineer**  
 *ATT Solutions Pvt Ltd | October 2016 – March 2022*  
 - **🚀 Build/Release Pipeline Revolutionary**: Automated build/release pipelines using **Jenkins**, **Maven**, and **Gradle**, reducing deployment time from 4 hours to 20 minutes and establishing industry-leading CI/CD practices for 50+ microservices applications, implementing blue-green deployments and automated rollback mechanisms.  
+- **📦 Application Packaging with InstallShield**: Designed and developed complex installers using **InstallShield**, creating custom dialogs and writing custom actions to handle intricate installation scenarios and ensure a seamless user experience.  
 - **☁️ Cloud Migration Mastermind**: Led comprehensive cloud migration strategy for 200+ legacy applications from on-premises to **AWS** and **Azure**, achieving spectacular 30% cost savings ($500k annually) and enabling hybrid/multi-cloud deployments with seamless scalability and disaster recovery capabilities.  
 - **🔒 Service Mesh Security Architect**: Implemented cutting-edge service mesh architecture with **Istio** and **Consul** for secure microservices communication in **Kubernetes**, ensuring enterprise-grade security, traffic management, and observability across 100+ microservices with mTLS encryption and policy enforcement.  
 - **🏗️ Infrastructure as Code Expert**: Designed and maintained sophisticated Infrastructure as Code templates using **Terraform**, **AWS CloudFormation**, and **ARM Templates** for distributed systems, enabling scalable and repeatable deployments across development, staging, and production environments with automated testing and validation.  
@@ -137,10 +140,10 @@
 - **🚀 Performance Optimization Specialist**: Implemented performance optimization strategies for high-traffic applications, including caching strategies (Redis, Memcached), database optimization, and CDN implementation, achieving 50% improvement in application response times.  
 - **�️ Security Integration Champion**: Integrated security practices into DevOps workflows, implementing automated security scanning, vulnerability assessments, and compliance monitoring using tools like **SonarQube**, **OWASP ZAP**, and **Checkmarx**.  
 **Key Projects:**  
-• **Enterprise E-commerce Platform Migration**: Led migration of mission-critical e-commerce platform to AWS, supporting 10M+ transactions/month with 99.99% uptime and PCI DSS compliance  
-• **Microservices Architecture Implementation**: Transformed monolithic application into 80+ microservices architecture, improving scalability and reducing deployment time by 75%  
-• **Multi-Cloud Disaster Recovery**: Implemented cross-cloud disaster recovery solution with automated failover, achieving RPO of 5 minutes and RTO of 15 minutes  
-• **DevOps Culture Transformation**: Led enterprise-wide DevOps transformation initiative, establishing CI/CD practices and reducing release cycle from monthly to daily deployments  
+• **Enterprise E-commerce Platform Migration**: Led migration of mission-critical e-commerce platform to AWS, supporting 10M+ transactions/month with 99.99% uptime and PCI DSS compliance, using **InstallShield** for application packaging.
+• **Microservices Architecture Implementation**: Transformed monolithic application into 80+ microservices architecture, improving scalability and reducing deployment time by 75%, with **InstallShield** for consistent deployments.
+• **Multi-Cloud Disaster Recovery**: Implemented cross-cloud disaster recovery solution with automated failover, achieving RPO of 5 minutes and RTO of 15 minutes, leveraging **InstallShield** for application portability.
+• **DevOps Culture Transformation**: Led enterprise-wide DevOps transformation initiative, establishing CI/CD practices and reducing release cycle from monthly to daily deployments, integrating **InstallShield** into the pipeline.  
 **Project Outcome**: **🏆 Exceptional Results** - Delivered a unified multi-cloud platform serving 200+ applications with 99.95% uptime, reduced deployment time by 70%, achieved seamless failover capabilities across cloud providers, successfully migrated 50+ applications with 99.8% uptime during transition, achieved $500k annual cost savings, improved application performance by 40%, and established DevOps practices that increased team productivity by 60% while reducing critical production incidents by 85%.  
 
 **Senior Software Engineer**  
@@ -154,6 +157,7 @@
 **Senior Software Engineer**  
 *Tech Mahindra | October 2014 – June 2016*  
 - **🚀 CI/CD Pipeline Architect**: Built powerful **CI/CD** pipelines for **Java**/.NET applications using **Jenkins**, Maven, and **Git**, revolutionizing software delivery and deployment processes.  
+- **📦 InstallShield Packaging**: Expertly used **InstallShield** to create and manage application packages, including the design of custom installation screens and the development of custom actions to automate configuration and deployment tasks.  
 - **⚙️ Configuration Management Expert**: Automated configuration management with **Ansible** across 200+ servers, establishing enterprise-grade automation and consistency.  
 - **🐳 Containerization Pioneer**: Containerized legacy applications using **Docker** for cloud migration and scalability, modernizing outdated systems for cloud-native architectures.  
 - **🖥️ Infrastructure Administration Expert**: Administered Linux-based web and database servers, supporting high-availability production systems with 24x7 reliability.  
@@ -162,7 +166,7 @@
 
 **Software Engineer**  
 *Wipro Limited | October 2011 – October 2014*  
-- **📦 Application Packaging Expert**: Designed and implemented sophisticated application packaging solutions using Microsoft App-V, VMware ThinApp, and MSI packaging technologies for enterprise software deployment across massive infrastructures.  
+- **📦 Application Packaging Expert**: Designed and implemented sophisticated application packaging solutions using **InstallShield**, Microsoft App-V, VMware ThinApp, and MSI packaging technologies for enterprise software deployment across massive infrastructures.  
 - **🖥️ Enterprise Deployment Mastermind**: Managed large-scale application deployment using **Microsoft System Center Configuration Manager (SCCM)** across 5000+ enterprise workstations and servers, ensuring seamless software distribution.  
 - **☁️ Virtualization Infrastructure Architect**: Developed and maintained cutting-edge virtualization infrastructure using VMware vSphere, Hyper-V, and Citrix XenApp for application delivery and desktop virtualization excellence.  
 - **⚙️ Automation Workflow Expert**: Created automated packaging workflows and deployment scripts using **PowerShell** and VBScript to streamline software distribution processes and eliminate manual overhead.  
