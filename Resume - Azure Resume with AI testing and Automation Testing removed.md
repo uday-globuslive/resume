@@ -7,7 +7,7 @@
 
 | **Company** | **Designation** | **Duration** | **Key Projects/Focus** |
 |-------------|----------------|--------------|------------------------|
-| **Truelancer Internet Pvt Ltd** | Azure Cloud Consultant / DevOps Consultant | June 2024 – Till Date | Azure Landing Zone Architecture, AKS Enterprise Deployments, Azure DevOps Pipelines, DevSecOps with Microsoft Defender, Ansible Automation Platform, Multi-Cloud Deployments |
+| **Truelancer Internet Pvt Ltd** | Azure Cloud Consultant / DevOps Consultant | May 2024 – Till Date | Azure Landing Zone Architecture, AKS Enterprise Deployments, Azure DevOps Pipelines, DevSecOps with Microsoft Defender, Ansible Automation Platform, Multi-Cloud Deployments |
 | **Turing** | Senior Azure/DevOps Engineer | April 2022 – April 2024 | Azure AKS Orchestration, Azure DevOps CI/CD, Ansible Infrastructure Automation, GitOps with ArgoCD, Enterprise Cloud Infrastructure |
 | **ATT Solutions Pvt Ltd** | Senior Azure Cloud Engineer | October 2016 – March 2022 | Azure Migration (200+ apps), Azure AKS & Service Mesh, Terraform & Azure Bicep, CI/CD Automation, Infrastructure as Code |
 | **CA Technologies** | Senior Software Engineer | June 2016 – October 2016 | Ansible Automation, Enterprise Software Development, CI/CD Implementation, Agile Methodologies |
@@ -90,7 +90,7 @@
 ### **Professional Experience**  
 
 **Azure Cloud Consultant / DevOps Consultant**  
-*Truelancer Internet Pvt Ltd | June 2024 – Till Date*  
+*Truelancer Internet Pvt Ltd | May 2024 – Till Date*  
 - **💼 Azure Cloud Transformation Consultant**: Masterminded mission-critical, scalable **Microsoft Azure cloud infrastructure** powering enterprise SaaS workloads for Fortune 500 manufacturing clients. Designed **Azure Landing Zone architecture** with hub-spoke topology, **Azure Kubernetes Service (AKS)** clusters across 5 regions, **Azure Front Door** for global load balancing, **Azure API Management** for API gateway, and **Azure Service Bus** for event-driven microservices - supporting 10M+ daily transactions and 99.99% uptime requirements.  
 - **🔐 DevSecOps Implementation Champion**: Implemented comprehensive **DevSecOps practices** including Azure Security Center, Azure Sentinel, SonarQube, Acunetix, Mend, and Polaris integration for continuous security monitoring and vulnerability management across CI/CD pipelines, reducing security incidents by 90% and achieving SOC2 Type II compliance.  
 - **🛡️ Security Automation Expert**: Developed automated security scanning and compliance frameworks using **PowerShell** and **Python**, integrating security gates into **Azure DevOps pipelines** for proactive threat detection and remediation, implementing policy-as-code with Open Policy Agent (OPA) and establishing zero-trust security architecture.  

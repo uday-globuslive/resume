@@ -7,7 +7,7 @@
 
 | **Company** | **Designation** | **Duration** | **Key Projects/Focus** |
 |-------------|----------------|--------------|------------------------|
-| **Infosys (Truelancer Payroll Company)** | DevOps Consultant / DevSecOps Engineer | June 2024 – Till Date | Kubernetes Cluster Automation (Terraform/Ansible/kubeadm), Prometheus & Grafana, DevSecOps (Trivy, Jenkins, Nexus), JFrog Xray & Gerrit POC |
+| **Infosys (Truelancer Payroll Company)** | DevOps Consultant / DevSecOps Engineer | May 2024 – Till Date | Kubernetes Cluster Automation (Terraform/Ansible/kubeadm), Prometheus & Grafana, DevSecOps (Trivy, Jenkins, Nexus), JFrog Xray & Gerrit POC |
 | **Turing** | Senior Multi-Cloud/DevOps Engineer (Azure/AWS) | April 2022 – April 2024 | Azure AKS & AWS EKS Orchestration, Multi-Cloud CI/CD, Ansible Infrastructure Automation, GitOps with ArgoCD, Enterprise Cloud Infrastructure |
 | **ATT Solutions Pvt Ltd** | Senior Cloud Engineer (Azure/AWS) | October 2016 – March 2022 | Multi-Cloud Migration (200+ apps), AKS/EKS & Service Mesh, Terraform for Azure & AWS, CI/CD Automation, Infrastructure as Code |
 | **CA Technologies** | Senior Software Engineer | June 2016 – October 2016 | Ansible Automation, Enterprise Software Development, CI/CD Implementation, Agile Methodologies |
@@ -100,7 +100,7 @@
 ### **Professional Experience**  
 
 **DevOps Consultant / DevSecOps Engineer**  
-*Infosys (Truelancer Payroll Company) | June 2024 – Till Date*  
+*Infosys (Truelancer Payroll Company) | May 2024 – Till Date*  
 
 ---
 

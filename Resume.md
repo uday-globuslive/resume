@@ -7,7 +7,7 @@
 
 | **Company** | **Designation** | **Duration** | **Key Projects/Focus** |
 |-------------|----------------|--------------|------------------------|
-| **Truelancer Internet Pvt Ltd** | DevOps/Cloud Consultant | June 2024 – Till Date | Enterprise Cloud Transformation, DevSecOps Implementation, Ansible Automation Platform, Multi-Cloud Deployments |
+| **Truelancer Internet Pvt Ltd** | DevOps/Cloud Consultant | May 2024 – Till Date | Enterprise Cloud Transformation, DevSecOps Implementation, Ansible Automation Platform, Multi-Cloud Deployments |
 | **Turing** | Senior Cloud/DevOps Engineer & AI Testing/Prompt Engineer | April 2022 – April 2024 | AI Model Testing (Anthropic), Ansible Infrastructure Automation, Cloud Infrastructure, GitOps, Kubernetes Orchestration |
 | **ATT Solutions Pvt Ltd** | Senior Software Engineer | October 2016 – March 2022 | Ansible Playbook Development, Multi-Cloud Platform, CI/CD Automation, Service Mesh Architecture, Infrastructure as Code |
 | **CA Technologies** | Senior Software Engineer | June 2016 – October 2016 | Ansible Automation, Enterprise Software Development, CI/CD Implementation, Agile Methodologies |
@@ -70,7 +70,7 @@
 ### **Professional Experience**  
 
 **DevOps/Cloud Consultant**  
-*Truelancer Internet Pvt Ltd | June 2024 – Till Date*  
+*Truelancer Internet Pvt Ltd | May 2024 – Till Date*  
 - **💼 Enterprise Cloud Transformation Architect**: Masterminded mission-critical, scalable **Azure** and **AWS** cloud infrastructure (AKS, Azure Functions, EC2, EKS, Lambda) powering enterprise SaaS workloads for Fortune 500 manufacturing clients across global markets, supporting 10M+ daily transactions and 99.99% uptime requirements.  
 - **🔐 DevSecOps Implementation Champion**: Implemented comprehensive **DevSecOps practices** including Azure Security Center, Azure Sentinel, SonarQube, Acunetix, Mend, and Polaris integration for continuous security monitoring and vulnerability management across CI/CD pipelines, reducing security incidents by 90% and achieving SOC2 Type II compliance.  
 - **🛡️ Security Automation Expert**: Developed automated security scanning and compliance frameworks using **PowerShell** and **Python**, integrating security gates into **Azure DevOps pipelines** for proactive threat detection and remediation, implementing policy-as-code with Open Policy Agent (OPA) and establishing zero-trust security architecture.  

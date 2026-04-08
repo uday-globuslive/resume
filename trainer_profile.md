@@ -436,7 +436,7 @@ As part of Corporate training, provided many sessions from past 10+ years and be
 ## My Past Experiences:
 
 ### DevOps/Cloud Consultant & Corporate Trainer
-**June 2024 – Present**
+**May 2024 – Present**
 - Providing DevOps and Cloud consulting for enterprise clients on Azure, AWS, and multi-cloud architectures
 - Conducting corporate training on CI/CD (Jenkins, GitHub Actions, GitLab CI), Kubernetes, Docker, and SRE practices
 - Implementing GitOps workflows with ArgoCD and Flux for enterprise Kubernetes deployments
